@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/menu_usuarios" android:title="Usuarios" />
+    <item android:id="@+id/menu_reportes" android:title="Reportes" />
+    <item android:id="@+id/menu_tipos" android:title="Tipos" />
+    <item android:id="@+id/menu_evidencias" android:title="Evidencias" />
+    <item android:id="@+id/menu_confirmaciones" android:title="Confirmaciones" />
+    <item android:id="@+id/menu_comentarios" android:title="Comentarios" />
+    <item android:id="@+id/menu_emergencias" android:title="Emergencias" />
+    <item android:id="@+id/menu_contactos" android:title="Contactos" />
+</menu>
